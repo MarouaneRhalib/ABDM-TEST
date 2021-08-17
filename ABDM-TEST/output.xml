@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1 (Python 3.8.10 on win32)" generated="20210817 14:55:22.182" rpa="false" schemaversion="2">
+<suite id="s1" name="ABDM-TEST" source="C:\Users\mrb\eclipse-workspace\ABDM-TEST">
+<suite id="s1-s1" name="Tests" source="C:\Users\mrb\eclipse-workspace\ABDM-TEST\Tests">
+<suite id="s1-s1-s1" name="ObjetPM" source="C:\Users\mrb\eclipse-workspace\ABDM-TEST\Tests\ObjetPM.robot">
+<test id="s1-s1-s1-t1" name="CreeUnPM">
+<kw name="Log" library="BuiltIn">
+<arg>creer</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20210817 14:55:22.315" level="INFO">creer</msg>
+<status status="PASS" starttime="20210817 14:55:22.314" endtime="20210817 14:55:22.315"/>
+</kw>
+<status status="PASS" starttime="20210817 14:55:22.311" endtime="20210817 14:55:22.316"/>
+</test>
+<status status="PASS" starttime="20210817 14:55:22.304" endtime="20210817 14:55:22.319"/>
+</suite>
+<status status="PASS" starttime="20210817 14:55:22.296" endtime="20210817 14:55:22.323"/>
+</suite>
+<status status="PASS" starttime="20210817 14:55:22.243" endtime="20210817 14:55:22.328"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="ABDM-TEST">ABDM-TEST</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="Tests">ABDM-TEST.Tests</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1-s1" name="ObjetPM">ABDM-TEST.Tests.ObjetPM</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
